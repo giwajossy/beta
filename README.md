@@ -7,8 +7,8 @@ Written in HTML, CSS, and VanillaJS, Beta is....
 
 
 ### Resources 🌎
-* **Dominant Color**: ##b73d06 || rgb(183, 61, 6)
-* **Secondary Colors**: rgb(106, 106, 12) & rgb(106, 106, 12)
+* **Dominant Color**: #122133 || rgb(18, 33, 51)
+* **Secondary Colors**: #0c3756 & #547494
 * **Font Family**: "PT Serif Caption", "PT Serif", Sans-serif.
 * **Copyright-free Images**: [Pexels](https://pexels.com) and [Pixabay](https://pixabay.com).
 

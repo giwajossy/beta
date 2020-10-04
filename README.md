@@ -1,6 +1,7 @@
 # Project Beta 📽️
 
-%[<iframe src="https://drive.google.com/file/d/1RZFBokqqCJYnqeVIn3dMUKWUxbUeiFqR/preview" width="640" height="480"></iframe>]
+<!-- %[<iframe src="https://drive.google.com/file/d/1RZFBokqqCJYnqeVIn3dMUKWUxbUeiFqR/preview" width="640" height="480"></iframe>] -->
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 Written in HTML, CSS, and VanillaJS, Beta is blood donation awareness website which basically gives general education on the topic.
 [Preview Website](https://buildbeta.netlify.app) 🔗

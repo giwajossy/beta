@@ -22,8 +22,8 @@ Nigeria has some of the lowest blood donation rates in the world, with just 10% 
 
 
 ### Resources 🌎
-* **Dominant Color**: #122133 || rgb(18, 33, 51)
-* **Secondary Colors**: #0c3756 & #547494
+* **Dominant Color**: #4d0404 || rgb(77, 4, 4)
+* **Secondary Colors**: #9b0404 & #8c0404
 * **Font Family**: "PT Serif Caption", "PT Serif", Sans-serif.
 * **Copyright-free Images**: [Pexels](https://pexels.com) and [Pixabay](https://pixabay.com).
 

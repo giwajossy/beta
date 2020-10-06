@@ -1,8 +1,9 @@
 # Project Beta 📽️
 
 <!-- %[<iframe src="https://drive.google.com/file/d/1RZFBokqqCJYnqeVIn3dMUKWUxbUeiFqR/preview" width="640" height="480"></iframe>] -->
-[![Beta](https://j.gifs.com/vl3rvV.gif)](https://youtu.be/EtvhQGxCf1U)
+[![Beta Demo](https://j.gifs.com/vl3rvV.gif)](https://youtu.be/EtvhQGxCf1U)
 
+https://imgflip.com/gif/4hkeig
 
 <!-- https://gifs.com/gif/beta-vl3rvV -->
 

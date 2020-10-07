@@ -19,10 +19,10 @@ Nigeria has some of the lowest blood donation rates in the world, with just 10% 
 
 
 ### Research Materials
-[Life Bank](https://lifebankcares.com/#/home)
-[CcHub Press Release](https://cchubnigeria.com/press-release-google-puts-the-spotlight-on-blood-donation-with-lifebank/#)
-[Premium Times article on World Blood Donor Day](https://www.premiumtimesng.com/health/health-news/272568-world-blood-donor-day-only-10-of-nigerians-donate-blood-freely-fg.html)
-[National Center For Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574505/)
+* [Life Bank](https://lifebankcares.com/#/home)
+* [CcHub Press Release](https://cchubnigeria.com/press-release-google-puts-the-spotlight-on-blood-donation-with-lifebank/#)
+* [Premium Times article on World Blood Donor Day](https://www.premiumtimesng.com/health/health-news/272568-world-blood-donor-day-only-10-of-nigerians-donate-blood-freely-fg.html)
+* [National Center For Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574505/)
 
 
 ### Resources 🌎

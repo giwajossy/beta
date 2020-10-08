@@ -3,7 +3,7 @@
 Written in HTML, CSS, and VanillaJS, Beta is blood donation awareness website which basically gives general education on the topic.
 [Preview Website](https://buildbeta.netlify.app) 🔗
 
-<a href="https://imgflip.com/gif/4hkeig"><img src="https://i.imgflip.com/4hkeig.gif" style="margin-left: 40%;" title="Beta Demo"/></a>
+<a href="https://imgflip.com/gif/4hkeig" style="margin-left: 40%; width:100%"><img src="https://i.imgflip.com/4hkeig.gif" title="Beta Demo"/></a>
 
 ### Be a Hero, Donate Blood Today.
 Nigeria has some of the lowest blood donation rates in the world, with just 10% of the population donating freely.
